@@ -3,12 +3,11 @@ body {
 }
 
 hr{
-  border-style: none;
-  border-top-style: dotted;
+  border-style: dashed;
   border-color: #ACB992;
-  border-width: 5px;
+  border-width: 1px;
   height: 0px;
-  width: 7%
+  width: 100%
 
 }
 
